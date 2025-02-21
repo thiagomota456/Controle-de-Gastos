@@ -5,10 +5,15 @@ Este é um aplicativo desenvolvido em **Google Apps Script** para ajudar no **ca
 
 ## 🚀 Funcionalidades
 ✅ **Cadastrar gastos imediatos**
+
 ✅ **Programar gastos recorrentes**
+
 ✅ **Registrar pagamentos parcelados**
+
 ✅ **Interface interativa com HTML e jQuery**
+
 ✅ **Integração com Google Sheets para armazenamento de dados**
+
 
 ## 🛠️ Tecnologias Utilizadas
 - 🔹 **Google Apps Script** (backend para manipulação dos dados)
