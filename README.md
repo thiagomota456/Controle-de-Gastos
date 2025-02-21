@@ -21,13 +21,17 @@ Este é um aplicativo desenvolvido em **Google Apps Script** para ajudar no **ca
 
 ## 📌 Como Usar
 1️⃣ **Abra o editor do Google Apps Script** [(script.google.com)](https://script.google.com/)
+
 2️⃣ **Crie um novo projeto** e copie o código do arquivo `Código.gs` para a seção `Code.gs`.
+
 3️⃣ **Crie um arquivo HTML** no Apps Script e cole o conteúdo de `Gastos.html`.
+
 4️⃣ **Implante o projeto como um Web App**:
    - Clique em **Implantar** > **Novo Implantamento**
    - Escolha **Aplicativo da Web**
    - Defina permissões como **"Qualquer um" ou "Qualquer um com o link"**
    - Salve e copie o link do Web App
+
 5️⃣ **Acesse o Web App** e utilize a interface para cadastrar e gerenciar seus gastos.
 
 ## 🎨 Personalização
